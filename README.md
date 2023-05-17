@@ -1,4 +1,4 @@
-# tcs-assesment
+# tcs-assessment
  Repository containing files for TCS Coding Assignment
 
 ## Assessment Tasks
