@@ -64,6 +64,10 @@ labeled **tcs-assessment** and tagged with the following keypair;
 2. If you SSH to the instance, in the home directory you will find a file named
 hundred.txt that contains the numbers 1-100 in sequence.
 
-1. In your S3 console, you'll see a Bucket named **tcs-assessment**. You can
+3. In your S3 console, you'll see a Bucket named **tcs-assessment**. You can
 verify on the permissions view that the created EC2 instance is a member of the 
 VPC that has list permissions on the bucket.
+
+---
+
+[Download my resume](https://docs.google.com/document/d/1Mbz48TXGh-C0rkAA372xG8xmhDrJDX0qF0LmPI6BOso/edit?usp=sharing)
