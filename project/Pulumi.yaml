@@ -1,0 +1,6 @@
+name: assessment
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: TCS Coding Assessment - DevOps Architect

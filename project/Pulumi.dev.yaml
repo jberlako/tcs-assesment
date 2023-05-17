@@ -1,0 +1,3 @@
+config:
+  assessment:volume_size: "1"
+  aws:region: us-east-1
